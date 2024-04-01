@@ -600,6 +600,7 @@ align-items: baseline;
 
 .footer-socials{
   align-items: center;
+  margin-bottom: 72px;
 }
 
 .footer-socials-title{
@@ -609,11 +610,14 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 color: #fff;
 margin-bottom: 16px;
+text-align: center;
+
 }
 
 .footer-socials-list{
   display: flex;
 gap: 16px;
+justify-content: center;
 }
 
 .footer-socials-list-element{
