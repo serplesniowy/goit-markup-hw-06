@@ -1087,6 +1087,7 @@ background-color: #31d0aa;
 
   /* --SECTION FOOTER-- */
   .page-footer .container {
+    display: flex;
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: left;
