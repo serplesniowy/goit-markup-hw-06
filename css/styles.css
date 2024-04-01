@@ -598,6 +598,10 @@ align-items: baseline;
   margin-bottom: 72px;
 }
 
+.footer-socials{
+  align-items: center;
+}
+
 .footer-socials-title{
   font-weight: 500;
 font-size: 16px;
@@ -1072,7 +1076,7 @@ background-color: #31d0aa;
     column-gap: 24px;
     row-gap: 72px;
   }
-
+    
   .portfolio-list-item {
     width: calc((100% - 24px) / 2);
   }
